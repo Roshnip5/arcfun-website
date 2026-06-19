@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>ARC FUN</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="hero">
+  <h1>ARC FUN</h1>
+  <p>Build • Explore • Create on ARC</p>
+
+  <div class="buttons">
+    <a href="#">Get Started</a>
+    <a href="#">Join Community</a>
+  </div>
+</div>
+
+<div class="features">
+
+  <div class="card">
+    <h2>Wallet</h2>
+    <p>Connect and manage assets.</p>
+  </div>
+
+  <div class="card">
+    <h2>NFTs</h2>
+    <p>Discover collections.</p>
+  </div>
+
+  <div class="card">
+    <h2>Builders</h2>
+    <p>Create projects on ARC.</p>
+  </div>
+
+</div>
+
+<footer>
+  Powered by ARC
+</footer>
+
+</body>
+</html>
